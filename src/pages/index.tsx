@@ -7,7 +7,7 @@ const Index = () => {
   return (
     <Container className="container" py={10} maxW="5xl">
       <Head>
-        <title>James Lewis Harries - Resume</title>
+        <title>Hannah Harries - Resume</title>
         <meta charSet="utf-8" />
         <meta name="viewport" content="initial-scale=1.0, width=device-width" />
         <link
@@ -18,8 +18,8 @@ const Index = () => {
       </Head>
       <Flex direction="column" gap={10}>
         <Intro />
-        <HistoryList title="Work Experience" items={experiences} />
         <HistoryList title="Education" items={education} />
+        <HistoryList title="Work Experience" items={experiences} />
       </Flex>
     </Container>
   );

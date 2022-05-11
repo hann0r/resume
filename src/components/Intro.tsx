@@ -3,12 +3,12 @@ import { useRouter } from "next/router";
 
 export const Intro = () => {
   const router = useRouter();
-  const yearsSinceStart = new Date().getFullYear() - 2006;
+
   return (
     <Flex direction="column" gap={3}>
       <Flex justify="space-between" align="center">
         <Heading as="h1" size="2xl">
-          James Lewis Harries
+          Hannah Harries
         </Heading>
 
         <Button
@@ -23,25 +23,37 @@ export const Intro = () => {
         </Button>
       </Flex>
       <Heading as="h2" size="md">
-        Software Engineer
+        Junior Front-End Developer
       </Heading>
       <Text>
-        London, UK |{" "}
-        <Link href="mailto:james@pancakeuprising.com">
-          james@pancakeuprising.com
+        Cambridge, UK |{" "}
+        <Link href="mailto:hannahjeanharries@gmail.com">
+          hannahjeanharries@gmail.com
         </Link>{" "}
         |{" "}
-        <Link href="https://www.github.com/vaicine" target="_blank">
-          github.com/vaicine
+        <Link href="https://www.github.com/hann0r" target="_blank">
+          github.com/hann0r
         </Link>
       </Text>
+
       <Text>
-        For the last {yearsSinceStart} years I've been solving problems and
-        building software in different languages and stacks to power businesses
-        across various industries, from lean start-ups to enterprise level
-        companies. I specialise in creating well tested, maintainable and
-        pragmatic solutions with a focus on user experience, high-build quality
-        and delivering business value.
+        For the last 8 months i've completed all four{" "}
+        <Link href="https://www.shecodes.io" target="_blank">
+          'SheCodes'
+        </Link>{" "}
+        coding workshops whilst working at a local preschool. Beginning with the
+        basics of coding, all the way up to learning React.js and Responsive web
+        desgin. I've created four web pages, each showcased in my final
+        Portfolio project. I then re-visited the early web-pages that I created,
+        editing each one to make them fully responsive for all devices. Details
+        of the skills I am now competent in and the workshops I have
+        successfully completed can be seen below. All site detail and links can
+        be found in full detail on my{" "}
+        <Link href="https://www.hannahharries.com" target="_blank">
+          'Portfolio'
+        </Link>
+        ' web page. Currently seeking a full-time remote Front-end Developer
+        role.
       </Text>
     </Flex>
   );

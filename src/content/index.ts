@@ -93,12 +93,12 @@ export const experiences: THistory[] = [
     ],
   },
   {
-    name: "New Hope for Cambodian Children Orphanage/ International School (NGO Based in rural Cambodia)",
+    name: "New Hope for Cambodian Children School (NGO)",
     logoSrc: "/images/logos/nhcclogo.png",
     startDate: "Oct 2018",
     endDate: "July 2021",
     details: [
-      "Grade 6 Teacher - Teaching three grade 6 classes over 3 academic years. On average 17 students per class, ages ranging from 10-15 years old. Focusing on English, Math, Social Studies, P.E and Art. Monday to Friday, 7:00am-4:00pm. Creating and implementing lesson plans, classroom resources and exams in accordance with the Cambodian national curriculum. Working with Students across all levels adapting the curriculum for those with special needs.  Providing daily extra tutoring in English, with 2 main focus groups in reading for those who struggle and those that excel.  Planning field trips and accompanying students to their destination alongside a teaching assistant.  Organizing extra curricula activities, such as art shows, theatre productions, dance shows, music and talent competitions.  Living on site, tutoring students consistently during the lockdown, this involved working mainly on their English abilities, filling in for lack of staff working with pre-school right up to grade 6.",
+      "Grade 6 Teacher - Teaching three grade 6 classes over 3 academic years. 17 students per class, ages 10-15 years old. Focusing on English, Maths, Social Studies, P.E and Art. Creating and implementing lesson plans, classroom resources and exams in accordance with the Cambodian national curriculum. Adapting the curriculum for those with special needs.  Providing extra tutoring for those who struggle and those that excel.  Planning field trips.  Organizing extra curricula activities, such as art shows, music and talent competitions.  Living on site.",
     ],
   },
   {
@@ -107,7 +107,7 @@ export const experiences: THistory[] = [
     startDate: "Mar 2015",
     endDate: "Aug 2017",
     details: [
-      "Resourcer/Account Coordinator/Consultant - Helping Support Workers, Care Assistants and Nurses to gain employment within their desired sector and location. Interviewing all candidates and ensuring they have the relevant compliance. I was in charge of the company’s payroll and ensuring that all workers’ timesheets were inputted correctly into the database in order to process their payment. CV searching, contacting candidates, data entry, carrying out all interviews. Booking and organising existing and new candidates to attend training days. Running regular expiry reports on all candidates’ files to ensure that all of their training and Disclosure and Barring Service (DBS) checks are l clear and up to date. Creating and updating multiple Excel spreadsheets that include details of each candidate’s compliance status re- Training, DBS checks, references, VISAs and proof of right to work. Contacting employers for reference checks. Brain storming and creating employee incentives. Liaising with both clients and candidates daily to organise mutually agreeable shift patterns. Visiting local colleges and universities to carry out PowerPoint presentations on behalf of the company to gain new business. Taking part in numerous job fairs, representing the company and providing potential employees/employers with all the relevant information needed",
+      "Account Coordinator/Consultant - Helping Support Workers, Care Assistants and Nurses to gain employment. Interviewing candidates, ensuring they have the relevant compliance. Completeing the company’s payroll and ensuring that all workers’ timesheets were inputted correctly into the database. CV searching, contacting candidates. Booking candidates to attend training days. Running regular reports on all files to ensure that all training and Disclosure and Barring Service (DBS) checks are clear and up to date. Creating and updating multiple Excel spreadsheets detailing all compliance re. training, DBS checks, references, and VISA proof. Contacting employers for reference checks. Brainstorming and creating employee incentives. Liaising with both clients and candidates daily to organise mutually agreeable shift patterns. Visiting local colleges and universities to carry out PowerPoint presentations to gain new business. Taking part in job fairs, providing potential employees/employers with all the relevant information needed",
     ],
   },
   {
@@ -116,7 +116,7 @@ export const experiences: THistory[] = [
     startDate: "Apr 2014",
     endDate: "Jul 2014",
     details: [
-      "Based in Rural Africa (Sangilo Village, Malawi) The project was partially Government funded but also saw me fundraise £800 in order to support the Charity to fund further young people to volunteer overseas. The target was reached by hosting car boot sales, baking cakes, talking with local neighbours and writing to my local paper (The Royston Crow) that kindly wrote an article about the Malawian mission which included my Just-Giving fundraising webpage. Contact with my local Rotary Club was also made and they very generously donated a large percentage of the target with the agreement of holding a speech/presentation on my return. I was invited to the club as a guest speaker in January 2015 and presented my experience to the entire committee. The situation – Supporting children to gain access to primary school education in a community that had no access to electricity or the internet. Working in a team of 18 (9 UK volunteers and 9 Malawian volunteers) Tasks included: Construction of a new nursery building. Raising the standard of education through the teachers by creating an up to date and relevant learning syllabus and new learning resources. Awareness sessions within the Primary Schools, A parents evening, Adult Literacy classes, A talent show for all the students. Covering topics such as: Geography, Hygiene and Sanitation and Culture, diversity / HIV & AIDS and others diseases",
+      "Based in Rural Africa (Sangilo Village, Malawi) The project was partially Government funded but also saw me fundraise £800 in order to support the Charity to fund further young people to volunteer overseas. The Royston Rotary Club made a donation with the agreement of holding a speech/presentation on my return. I was invited to the club as a guest speaker in January 2015 and presented my experience to the entire committee. The situation – supporting children to gain access to primary school education in a community that had no access to electricity or the internet. Working in a team of 18. Tasks included: Construction of a new nursery building. Raising the standard of education through the teachers by creating an up to date and relevant learning syllabus and new learning resources. Awareness sessions within the primary schools, a parents evening, adult literacy classes and a talent show for all the students. Covering topics such as: Geography, hygiene, sanitation, culture diversity / HIV & AIDS and others diseases",
     ],
   },
   {
@@ -125,7 +125,7 @@ export const experiences: THistory[] = [
     startDate: "Nov 2010",
     endDate: "Jun 2011",
     details: [
-      "Telesales Representative - Answering incoming calls, Data Entry, Ensuring department standards were met, Meeting my own personal up selling target, Responding to correspondence by email and letter.",
+      "Telesales Representative - Answering incoming calls, Data Entry, Ensuring department standards were met, Meeting my own personal upselling target, Responding to correspondence by email and letter.",
     ],
   },
 ];

@@ -37,23 +37,23 @@ export const Intro = () => {
       </Text>
 
       <Text>
-        For the last 8 months i've completed all four{" "}
+        During the last 8 months I have completed all four{" "}
         <Link href="https://www.shecodes.io" target="_blank">
           'SheCodes'
         </Link>{" "}
-        coding workshops whilst working at a local preschool. Beginning with the
-        basics of coding, all the way up to learning React.js and Responsive web
-        desgin. I've created four web pages, each showcased in my final
-        Portfolio project. I then re-visited the early web-pages that I created,
-        editing each one to make them fully responsive for all devices. Details
-        of the skills I am now competent in and the workshops I have
-        successfully completed can be seen below. All site details and links can
-        be found on my{" "}
+        coding workshops, whilst working at a local preschool. Using previous
+        knowledge gained through my passion for learning and years of
+        office-based roles. I began with the basics of coding, all the way up to
+        learning React.js and Responsive web design. I've created four web
+        pages, each showcased in my final{" "}
         <Link href="https://www.hannahharries.com" target="_blank">
           'Portfolio'
-        </Link>
-        ' web page. Currently seeking a full-time remote Front-end Developer
-        role.
+        </Link>{" "}
+        project. I then re-visited the early web-pages that I created, editing
+        each one to make them fully responsive for all devices. Details of the
+        skills I am now competent in and the workshops I have successfully
+        completed can be seen below. Currently seeking a full-time remote
+        Front-end Developer role.
       </Text>
     </Flex>
   );

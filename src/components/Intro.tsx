@@ -47,8 +47,8 @@ export const Intro = () => {
         Portfolio project. I then re-visited the early web-pages that I created,
         editing each one to make them fully responsive for all devices. Details
         of the skills I am now competent in and the workshops I have
-        successfully completed can be seen below. All site detail and links can
-        be found in full detail on my{" "}
+        successfully completed can be seen below. All site details and links can
+        be found on my{" "}
         <Link href="https://www.hannahharries.com" target="_blank">
           'Portfolio'
         </Link>

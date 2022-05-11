@@ -16,7 +16,7 @@ export const Intro = () => {
           color="white"
           _hover={{ bg: "gray.600", color: "white" }}
           onClick={() =>
-            window.open("/pdf/james-lewis-harries-resume.pdf", "_blank")
+            window.open("/pdf/hannah-harries-resume.pdf", "_blank")
           }
         >
           Download

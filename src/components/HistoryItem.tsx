@@ -26,7 +26,13 @@ export const HistoryItem = ({
   >
     <GridItem colSpan={[12, 12, 12, 3]}>
       <Flex gap={3} align="flex-start">
-        <Image src={logoSrc} width="48px" height="48px" objectFit="contain" />
+        <Image
+          src={logoSrc}
+          width="48"
+          height="48"
+          objectFit="contain"
+          alt={logoSrc}
+        />
         <Flex gap={1} direction="column">
           <Heading as="h4" size="sm">
             {name}

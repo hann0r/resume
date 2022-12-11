@@ -57,11 +57,10 @@ export const HistoryItem = ({
             {title}
           </Heading>
         )}
-        <UnorderedList>
-          {details.map((detail, i) => (
-            <ListItem key={`${name}-detail-${i}`}>{detail}</ListItem>
-          ))}
-        </UnorderedList>
+
+        {details.map((detail, i) => (
+          <p key={`${name}-detail-${i}`}>{detail}</p>
+        ))}
       </Flex>
     </GridItem>
   </Grid>

@@ -105,7 +105,7 @@ export const experiences: THistory[] = [
     name: "Bumpkins Preschool",
     logoSrc: "/images/logos/bumpkins-logo.png",
     startDate: "Dec 2021",
-    endDate: "Present",
+    endDate: "May 2022",
     details: [
       "Developing and providing safe and stimulating learning activities based on educational frameworks. liaising with parents, carers and professionals. Monitoring and assessing children's progress.",
     ],

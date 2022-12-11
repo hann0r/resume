@@ -9,6 +9,20 @@ export type THistory = {
 
 export const education: THistory[] = [
   {
+    name: "Loopspeed LTD",
+    logoSrc: "/images/logos/loopspeed.svg",
+    startDate: "May 2022",
+    endDate: "Current",
+    details: ["Frontend Developer"],
+  },
+  {
+    name: "Wingcard",
+    logoSrc: "/images/logos/wing.svg",
+    startDate: "May 2022",
+    endDate: "Current",
+    details: ["Frontend Developer"],
+  },
+  {
     name: "SheCodes - Coding Bootcamp",
     logoSrc: "/images/logos/shecodes-logo.png",
     startDate: "April 2022",

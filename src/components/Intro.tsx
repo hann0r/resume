@@ -23,7 +23,7 @@ export const Intro = () => {
         </Button>
       </Flex>
       <Heading as="h2" size="md">
-        Junior Front-End Developer
+        Front-End Developer
       </Heading>
       <Text>
         Cambridge, UK |{" "}

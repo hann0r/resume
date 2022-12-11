@@ -15,9 +15,7 @@ export const Intro = () => {
           bg="gray.800"
           color="white"
           _hover={{ bg: "gray.600", color: "white" }}
-          onClick={() =>
-            window.open("/pdf/hannah-harries-resume.pdf", "_blank")
-          }
+          onClick={() => window.open("/pdf/updated-resume.pdf", "_blank")}
         >
           Download
         </Button>
@@ -34,26 +32,30 @@ export const Intro = () => {
         <Link href="https://www.github.com/hann0r" target="_blank">
           github.com/hann0r
         </Link>
+        |{" "}
+        <Link href="https://www.hannahharries.com" target="_blank">
+          Portfolio
+        </Link>{" "}
       </Text>
 
       <Text>
-        During the last 8 months I have completed all four{" "}
+        Since completing all four{" "}
         <Link href="https://www.shecodes.io" target="_blank">
-          'SheCodes'
+          <u>SheCodes</u>
         </Link>{" "}
-        coding workshops, whilst working at a local preschool. Using previous
-        knowledge gained through my passion for learning and years of
-        office-based roles. I began with the basics of coding, all the way up to
-        learning React.js and Responsive web design. I've created four web
-        pages, each showcased in my final{" "}
-        <Link href="https://www.hannahharries.com" target="_blank">
-          'Portfolio'
+        coding workshops, I have been working full time as a Developer for both{" "}
+        <Link href="https://www.loopspeed.co.uk" target="_blank">
+          <u>Loopspeed</u>
         </Link>{" "}
-        project. I then re-visited the early web-pages that I created, editing
-        each one to make them fully responsive for all devices. Details of the
-        skills I am now competent in and the workshops I have successfully
-        completed can be seen below. Currently seeking a full-time remote
-        Front-end Developer role.
+        and{" "}
+        <Link href="https://wingcard.io/" target="_blank">
+          <u>Wingcard.</u>
+        </Link>{" "}
+        Creating websites and apps in partnership with SharpEnd, working with
+        companies such as Jo Malone, Puma, Levis and Mclaren. Using the
+        following technologies, HTML, CSS, JavaScript, React, Typscript,
+        Next.js, MUI, TailwindCSS, SASS, Firebase, Supabase, Contentful,
+        Styled-components, GSAP, Gatsby, Node.js.
       </Text>
     </Flex>
   );

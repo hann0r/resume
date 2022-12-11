@@ -18,8 +18,8 @@ const Index = () => {
       </Head>
       <Flex direction="column" gap={10}>
         <Intro />
-        <HistoryList title="Education" items={education} />
         <HistoryList title="Work Experience" items={experiences} />
+        <HistoryList title="Education" items={education} />
       </Flex>
     </Container>
   );

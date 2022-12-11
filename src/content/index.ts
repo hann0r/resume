@@ -9,20 +9,6 @@ export type THistory = {
 
 export const education: THistory[] = [
   {
-    name: "Loopspeed LTD",
-    logoSrc: "/images/logos/loopspeed.svg",
-    startDate: "May 2022",
-    endDate: "Current",
-    details: ["Frontend Developer"],
-  },
-  {
-    name: "Wingcard",
-    logoSrc: "/images/logos/wing.svg",
-    startDate: "May 2022",
-    endDate: "Current",
-    details: ["Frontend Developer"],
-  },
-  {
     name: "SheCodes - Coding Bootcamp",
     logoSrc: "/images/logos/shecodes-logo.png",
     startDate: "April 2022",
@@ -91,12 +77,30 @@ export const education: THistory[] = [
     startDate: "Sep 2005",
     endDate: "Jul 2009",
     details: [
-      "A-C grades in English, Maths, Science, Additonal Science, Textiles, Art, IT, and French",
+      "A-C grades in English, Maths, Science, Additional Science, Textiles, Art, IT, and French",
     ],
   },
 ];
 
 export const experiences: THistory[] = [
+  {
+    name: "Loopspeed LTD",
+    logoSrc: "/images/logos/loopspeed.svg",
+    startDate: "May 2022",
+    endDate: "Current",
+    details: [
+      "Frontend Developer working with partner companies Associo, SharpEnd and Wing. Assisting in the creation of the latest Loopspeed Website, whilst also working with independent businesses to design and create their sites, such as Life Ventures and TeqDen. Developing front end UI and database structures using the following: Using the following technologies, HTML, CSS, JavaScript, React, Typescript, Next.js, MUI, TailwindCSS, SASS, Firebase, Supabase, Contentful, Styled-components, GSAP, Gatsby, Node.js.",
+    ],
+  },
+  {
+    name: "Wingcard",
+    logoSrc: "/images/logos/wing.svg",
+    startDate: "May 2022",
+    endDate: "Current",
+    details: [
+      "Frontend Developer working on all UI aspects of the Wingcard.io website, using HTML, CSS, JavaScript, React, Typescript, Next.js, GSAP and TailwindCSS. Assisting with product and competitor research, contributing ideas and creative solutions during weekly meetings.",
+    ],
+  },
   {
     name: "Bumpkins Preschool",
     logoSrc: "/images/logos/bumpkins-logo.png",
@@ -112,7 +116,7 @@ export const experiences: THistory[] = [
     startDate: "Oct 2018",
     endDate: "July 2021",
     details: [
-      "Grade 6 Teacher - Teaching three grade 6 classes over 3 academic years. 17 students per class, ages 10-15 years old. Focusing on English, Maths, Social Studies, P.E and Art. Creating and implementing lesson plans, classroom resources and exams in accordance with the Cambodian national curriculum. Adapting the curriculum for those with special needs.  Providing extra tutoring for those who struggle and those that excel.  Planning field trips.  Organizing extra curricula activities, such as art shows, music and talent competitions.  Living on site.",
+      "Grade 6 Teacher - Teaching three grade 6 classes over 3 academic years. 17 students per class, ages 10-15 years old. Focusing on English, Maths, Social Studies, P.E and Art. Creating and implementing lesson plans, classroom resources and exams in accordance with the Cambodian national curriculum. Adapting the curriculum for those with special needs.  Providing extra tutoring for those who struggle and those that excel.  Planning field trips.  Organizing extra curricular activities, such as art shows, music and talent competitions.  Living on site.",
     ],
   },
   {
@@ -121,7 +125,7 @@ export const experiences: THistory[] = [
     startDate: "Mar 2015",
     endDate: "Aug 2017",
     details: [
-      "Account Coordinator/Consultant - Helping Support Workers, Care Assistants and Nurses to gain employment. Interviewing candidates, ensuring they have the relevant compliance. Completeing the company’s payroll and ensuring that all workers’ timesheets were inputted correctly into the database. CV searching, contacting candidates. Booking candidates to attend training days. Running regular reports on all files to ensure that all training and Disclosure and Barring Service (DBS) checks are clear and up to date. Creating and updating multiple Excel spreadsheets detailing all compliance re. training, DBS checks, references, and VISA proof. Contacting employers for reference checks. Brainstorming and creating employee incentives. Liaising with both clients and candidates daily to organise mutually agreeable shift patterns. Visiting local colleges and universities to carry out PowerPoint presentations to gain new business. Taking part in job fairs, providing potential employees/employers with all the relevant information needed.",
+      "Account Coordinator/Consultant - Helping Support Workers, Care Assistants and Nurses to gain employment. Interviewing candidates, ensuring they have the relevant compliance. Completing the company’s payroll and ensuring that all workers’ timesheets were inputted correctly into the database. CV searching, contacting candidates. Booking candidates to attend training days. Running regular reports on all files to ensure that all training and Disclosure and Barring Service (DBS) checks are clear and up to date. Creating and updating multiple Excel spreadsheets detailing all compliance re. training, DBS checks, references, and VISA proof. Contacting employers for reference checks. Brainstorming and creating employee incentives. Liaising with both clients and candidates daily to organise mutually agreeable shift patterns. Visiting local colleges and universities to carry out PowerPoint presentations to gain new business. Taking part in job fairs, providing potential employees/employers with all the relevant information needed.",
     ],
   },
   {
@@ -130,7 +134,7 @@ export const experiences: THistory[] = [
     startDate: "Apr 2014",
     endDate: "Jul 2014",
     details: [
-      "Based in Rural Africa (Sangilo Village, Malawi) The project was partially Government funded but also saw me fundraise £800 in order to support the Charity to fund further young people to volunteer overseas. The Royston Rotary Club made a donation with the agreement of holding a speech/presentation on my return. I was invited to the club as a guest speaker in January 2015 and presented my experience to the entire committee. The situation – supporting children to gain access to primary school education in a community that had no access to electricity or the internet. Working in a team of 18. Tasks included: Construction of a new nursery building. Raising the standard of education through the teachers by creating an up to date and relevant learning syllabus and new learning resources. Awareness sessions within the primary schools, a parents evening, adult literacy classes and a talent show for all the students. Covering topics such as: Geography, hygiene, sanitation, culture diversity / HIV & AIDS and others diseases.",
+      "Based in Rural Africa (Sangilo Village, Malawi) The project was partially Government funded but also saw me fundraise £800 in order to support the Charity to fund further young people to volunteer overseas. The Royston Rotary Club made a donation with the agreement of holding a speech/presentation on my return. I was invited to the club as a guest speaker in January 2015 and presented my experience to the entire committee. The situation – supporting children to gain access to primary school education in a community that had no access to electricity or the internet. Working in a team of 18. Tasks included: Construction of a new nursery building. Raising the standard of education through the teachers by creating an up to date and relevant learning syllabus and new learning resources. Awareness sessions within the primary schools, a parents evening, adult literacy classes and a talent show for all the students. Covering topics such as: Geography, hygiene, sanitation, culture diversity / HIV & AIDS and other diseases.",
     ],
   },
   {

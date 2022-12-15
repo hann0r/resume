@@ -89,7 +89,7 @@ export const experiences: THistory[] = [
     startDate: "May 2022",
     endDate: "Current",
     details: [
-      "Frontend Developer working with partner companies Associo, SharpEnd and Wing. Assisting in the creation of the latest Loopspeed Website, whilst also working with independent businesses to design and create their sites, such as Life Ventures and TeqDen. Developing front end UI and database structures using the following: Using the following technologies, HTML, CSS, JavaScript, React, Typescript, Next.js, MUI, TailwindCSS, SASS, Firebase, Supabase, Contentful, Styled-components, GSAP, Gatsby, Node.js.",
+      "Frontend Developer working with partner companies Associo, SharpEnd and Wing. Assisting in the creation of the latest Loopspeed Website, whilst also working with independent businesses to design and create their sites, such as Life Ventures and TeqDen. Developing front end UI and database structures using the following technologies, HTML, CSS, JavaScript, React, Typescript, Next.js, MUI, TailwindCSS, SASS, Firebase, Supabase, Contentful, Styled-components, GSAP, Gatsby, Node.js.",
     ],
   },
   {

@@ -55,7 +55,7 @@ export const Intro = () => {
         </Link>{" "}
         Creating websites and apps in partnership with SharpEnd, working with
         companies such as Jo Malone, Puma, Levis and Mclaren. Using the
-        following technologies, HTML, CSS, JavaScript, React, Typscript,
+        following technologies, HTML, CSS, JavaScript, React, Typescript,
         Next.js, MUI, TailwindCSS, SASS, Firebase, Supabase, Contentful,
         Styled-components, GSAP, Gatsby, Node.js.
       </Text>

@@ -26,26 +26,24 @@ export const Intro = () => {
         Front-End Developer
       </Heading>
       <Text>
-        Cambridge, UK |{" "}
-        <Link href="mailto:hannahjeanharries@gmail.com">
-          hannahjeanharries@gmail.com
-        </Link>{" "}
-        |{" "}
-        <Link href="https://www.github.com/hann0r" target="_blank">
-          github.com/hann0r
-        </Link>
-        |{" "}
-        <Link href="https://www.hannahharries.com" target="_blank">
-          Portfolio
-        </Link>{" "}
+        <i>
+          Cambridge, UK |{" "}
+          <Link href="mailto:hannahjeanharries@gmail.com">
+            hannahjeanharries@gmail.com
+          </Link>{" "}
+          |{" "}
+          <Link href="https://www.github.com/hann0r" target="_blank">
+            github.com/hann0r{" "}
+          </Link>
+          |{" "}
+          <Link href="https://www.hannahharries.com" target="_blank">
+            SheCodes Portfolio
+          </Link>{" "}
+        </i>
       </Text>
 
       <Text>
-        Since completing all four{" "}
-        <Link href="https://www.shecodes.io" target="_blank">
-          <u>SheCodes</u>
-        </Link>{" "}
-        coding workshops, I have been working full time as a Developer for both{" "}
+        Full time Frontend Developer & Designer working for both{" "}
         <Link href="https://www.loopspeed.co.uk" target="_blank">
           <u>Loopspeed</u>
         </Link>{" "}
@@ -53,11 +51,17 @@ export const Intro = () => {
         <Link href="https://wingcard.io/" target="_blank">
           <u>Wingcard.</u>
         </Link>{" "}
-        Creating websites and apps in partnership with SharpEnd, working with
-        companies such as Jo Malone, Puma, Levis and Mclaren. Using the
-        following technologies, HTML, CSS, JavaScript, React, Typescript,
-        Next.js, MUI, TailwindCSS, SASS, Firebase, Supabase, Contentful,
-        Styled-components, GSAP, Gatsby, Node.js.
+        Creating and designing websites, apps and branding in partnership with
+        SharpEnd, working with private clients and companies such as Jo Malone,
+        Puma, Levis and Mclaren. <br />
+        <br />
+        Vast experience using the following - Figma, HTML, CSS, JavaScript,
+        React, Typescript, Next.js, MUI, TailwindCSS, SASS, Firebase, Supabase,
+        Contentful CMS, Styled-components, GSAP, Gatsby, Node.js.
+        <br />
+        <br /> Alongside this work I have also been QA testing the apps, with a
+        keen eye and attention to detail ensuring all aspects are working
+        correctly within the UX/UI flow.
       </Text>
     </Flex>
   );

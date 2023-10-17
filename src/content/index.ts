@@ -89,7 +89,7 @@ export const experiences: THistory[] = [
     startDate: "May 2022",
     endDate: "Current",
     details: [
-      "Frontend Developer working with partner companies Associo, SharpEnd and Wing. Assisting in the creation of the latest Loopspeed Website, whilst also working with independent businesses to design and create their sites, such as Life Ventures and TeqDen. Developing front end UI and database structures using the following technologies, HTML, CSS, JavaScript, React, Typescript, Next.js, MUI, TailwindCSS, SASS, Firebase, Supabase, Contentful, Styled-components, GSAP, Gatsby, Node.js.",
+      "Front-End Developer/Designer working with partner companies Associo, SharpEnd, Wing and Independent businesses to design and create websites, apps and branding documents. Developing front end UI and database structures using the following - Figma, HTML, CSS, JavaScript, React, Typescript, Next.js, MUI, TailwindCSS, SASS, Firebase, Supabase, Contentful CMS, Styled-components, GSAP, Gatsby, Node.js.",
     ],
   },
   {
@@ -98,16 +98,7 @@ export const experiences: THistory[] = [
     startDate: "May 2022",
     endDate: "Current",
     details: [
-      "Frontend Developer working on all UI aspects of the Wingcard.io website, using HTML, CSS, JavaScript, React, Typescript, Next.js, GSAP and TailwindCSS. Assisting with product and competitor research, contributing ideas and creative solutions during weekly meetings.",
-    ],
-  },
-  {
-    name: "Bumpkins Preschool",
-    logoSrc: "/images/logos/bumpkins-logo.png",
-    startDate: "Dec 2021",
-    endDate: "May 2022",
-    details: [
-      "Developing and providing safe and stimulating learning activities based on educational frameworks. liaising with parents, carers and professionals. Monitoring and assessing children's progress.",
+      "Front-End Developer/Designer working on all UI aspects of the Wingcard.io website, app, events ane branding. Using Figma, HTML, CSS, JavaScript, React, Typescript, Next.js, GSAP and TailwindCSS. Assisting with product and competitor research, contributing ideas and creative solutions during weekly meetings. Representing the company at Events, promoting the product and networking with clients.",
     ],
   },
   {
@@ -125,7 +116,7 @@ export const experiences: THistory[] = [
     startDate: "Mar 2015",
     endDate: "Aug 2017",
     details: [
-      "Account Coordinator/Consultant - Helping Support Workers, Care Assistants and Nurses to gain employment. Interviewing candidates, ensuring they have the relevant compliance. Completing the company’s payroll and ensuring that all workers’ timesheets were inputted correctly into the database. CV searching, contacting candidates. Booking candidates to attend training days. Running regular reports on all files to ensure that all training and Disclosure and Barring Service (DBS) checks are clear and up to date. Creating and updating multiple Excel spreadsheets detailing all compliance re. training, DBS checks, references, and VISA proof. Contacting employers for reference checks. Brainstorming and creating employee incentives. Liaising with both clients and candidates daily to organise mutually agreeable shift patterns. Visiting local colleges and universities to carry out PowerPoint presentations to gain new business. Taking part in job fairs, providing potential employees/employers with all the relevant information needed.",
+      "Account Coordinator/Consultant - Assisting Support Workers, Care Assistants and Nurses to gain employment. Interviewing candidates, ensuring they have the relevant compliance. Completing the company’s payroll. CV searching, contacting candidates. Booking candidates to attend training days. Running (DBS) checks.Contacting employers for reference checks. Brainstorming and creating employee incentives. Visiting local colleges and universities to carry out presentations to gain new business.",
     ],
   },
   {

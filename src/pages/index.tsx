@@ -19,6 +19,9 @@ const Index = () => {
       <Flex direction="column" gap={10}>
         <Intro />
         <HistoryList title="Work Experience" items={experiences} />
+        <p>
+          <i>Non-Development Work Experience Available on Request</i>
+        </p>
         <HistoryList title="Education" items={education} />
       </Flex>
     </Container>

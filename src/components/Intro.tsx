@@ -51,13 +51,16 @@ export const Intro = () => {
         <Link href="https://wingcard.io/" target="_blank">
           <u>Wingcard.</u>
         </Link>{" "}
-        Creating and designing websites, apps and branding in partnership with
-        SharpEnd, working with private clients and companies such as Jo Malone,
-        Puma, Levis and Mclaren. <br />
+        Creating and designing Websites, Applications and Branding.
+        Collaborating and communicating with developers, working in partnership
+        with private clients and SharpEnd, on projects for companies such as Jo
+        Malone, Puma, Levis and Mclaren.
         <br />
-        Vast experience using the following - Figma, HTML, CSS, JavaScript,
-        React, Typescript, Next.js, MUI, TailwindCSS, SASS, Firebase, Supabase,
-        Contentful CMS, Styled-components, GSAP, Gatsby, Node.js.
+        <br />
+        Vast experience using the following - Figma, Visual Code Studio, HTML,
+        CSS, JavaScript, React, Typescript, Next.js, MUI, TailwindCSS, SASS,
+        Firebase, Supabase, Contentful CMS, Styled-components, GSAP, Gatsby,
+        Node.js, Github - Pulling, Comparing, Rebaseing and Merging.
         <br />
         <br /> Alongside this work I have also been QA testing the apps, with a
         keen eye and attention to detail ensuring all aspects are working

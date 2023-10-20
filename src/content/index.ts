@@ -89,7 +89,21 @@ export const experiences: THistory[] = [
     startDate: "May 2022",
     endDate: "Current",
     details: [
-      "Front-End Developer/Designer working with partner companies Associo, SharpEnd, Wing and Independent businesses to design and create websites, apps and branding documents. Developing front end UI and database structures using the following - Figma, HTML, CSS, JavaScript, React, Typescript, Next.js, MUI, TailwindCSS, SASS, Firebase, Supabase, Contentful CMS, Styled-components, GSAP, Gatsby, Node.js.",
+      "Front-End Developer/Designer working with partner companies and Independent businesses to design and create websites, apps and branding documents. Developing Front-End UI and database structures. ",
+
+      "This includes - Setting up Typography, Fonts, Button Components, AgeGate, Cookies, Forms, Inputs, Switches, Theme Set up, Landing and Splash Screens, Transitions, Animations, Pop up Modals, Responsive Styling. ",
+
+      "Using the following - Figma, HTML, CSS, JavaScript, React, Typescript, Next.js, MUI, TailwindCSS, SASS, Firebase, Supabase, Contentful CMS, Styled-components, GSAP, Gatsby, Node.js.",
+
+      "QA testing Applications - Ensuring screens in the intended order in the UX/UI flow, Checking for any dead-ends or broken links, Consistent styling across screens, Checking for any steps that are counterintuitive to the user, Ensuring in cases where there is email confirmation, the email being sent to the user. Making sure interactions are easily tappable, testing on multiple devices and screen sizes across both IOS and Android and all key browsers Safari, Chrome, Samsung.",
+
+      "Comparing Figma designs to ensure all of the following match up - ",
+
+      "Font family, Font sizing, Text and Image content (Images are not pixelated), Spacing between elements (Also alignment), Hierarchy of information, Favicon added",
+
+      "Making sure the Animations are smooth, well-timed, subtle and appropriate and that they load in time with the rest of the elements (no delay between animation assets and the rest of assets)",
+
+      "Performing a final once-over once the code is deployed to production (Ensuring both functional and design points are cleared)",
     ],
   },
   {
@@ -98,43 +112,49 @@ export const experiences: THistory[] = [
     startDate: "May 2022",
     endDate: "Current",
     details: [
-      "Front-End Developer/Designer working on all UI aspects of the Wingcard.io website, app, events ane branding. Using Figma, HTML, CSS, JavaScript, React, Typescript, Next.js, GSAP and TailwindCSS. Assisting with product and competitor research, contributing ideas and creative solutions during weekly meetings. Representing the company at Events, promoting the product and networking with clients.",
+      "Frontend Developer/Designer working on all UI aspects of the Wingcard.io Networking Website, Application, Events and Branding.",
+
+      "This includes - Setting up AI ChatBot, Eco Friendly UI Feature, Fonts, Button Components, About the Team section, Animated Company Logo Banners, FAQ Expanding Drop Down elements, Inputs, Theme Set up, Transitions, Animations, Discount Pop up Modal, Responsive Styling, Benefit Calculator (Currently in production)",
+
+      "Using Figma, HTML, CSS, JavaScript, React, Typescript, Next.js, GSAP and TailwindCSS. Assisting with product and competitor research, contributing ideas and creative solutions during weekly meetings. Representing the company at Events, promoting the product and networking with clients.",
+
+      "In addition to development for Wing I have been attending nation-wide networking events, representing the company, handing out and discussing their NFC powered digital Business Cards and Button products, discussing their sustainability and trackable analytics features.",
     ],
   },
-  {
-    name: "New Hope for Cambodian Children School (NGO)",
-    logoSrc: "/images/logos/nhcclogo.png",
-    startDate: "Oct 2018",
-    endDate: "July 2021",
-    details: [
-      "Grade 6 Teacher - Teaching three grade 6 classes over 3 academic years. 17 students per class, ages 10-15 years old. Focusing on English, Maths, Social Studies, P.E and Art. Creating and implementing lesson plans, classroom resources and exams in accordance with the Cambodian national curriculum. Adapting the curriculum for those with special needs.  Providing extra tutoring for those who struggle and those that excel.  Planning field trips.  Organizing extra curricular activities, such as art shows, music and talent competitions.  Living on site.",
-    ],
-  },
-  {
-    name: "Jark Healthcare Recruitment Agency (Cambridge)",
-    logoSrc: "/images/logos/jark-logo.png",
-    startDate: "Mar 2015",
-    endDate: "Aug 2017",
-    details: [
-      "Account Coordinator/Consultant - Assisting Support Workers, Care Assistants and Nurses to gain employment. Interviewing candidates, ensuring they have the relevant compliance. Completing the company’s payroll. CV searching, contacting candidates. Booking candidates to attend training days. Running (DBS) checks.Contacting employers for reference checks. Brainstorming and creating employee incentives. Visiting local colleges and universities to carry out presentations to gain new business.",
-    ],
-  },
-  {
-    name: "ICS (International Citizen Service)",
-    logoSrc: "/images/logos/ics-logo.png",
-    startDate: "Apr 2014",
-    endDate: "Jul 2014",
-    details: [
-      "Based in Rural Africa (Sangilo Village, Malawi) The project was partially Government funded but also saw me fundraise £800 in order to support the Charity to fund further young people to volunteer overseas. The Royston Rotary Club made a donation with the agreement of holding a speech/presentation on my return. I was invited to the club as a guest speaker in January 2015 and presented my experience to the entire committee. The situation – supporting children to gain access to primary school education in a community that had no access to electricity or the internet. Working in a team of 18. Tasks included: Construction of a new nursery building. Raising the standard of education through the teachers by creating an up to date and relevant learning syllabus and new learning resources. Awareness sessions within the primary schools, a parents evening, adult literacy classes and a talent show for all the students. Covering topics such as: Geography, hygiene, sanitation, culture diversity / HIV & AIDS and other diseases.",
-    ],
-  },
-  {
-    name: "Hotel Chocolat (Head office, Royston)",
-    logoSrc: "/images/logos/hotel-chocolat-logo.png",
-    startDate: "Nov 2010",
-    endDate: "Jun 2011",
-    details: [
-      "Telesales Representative - Answering incoming calls, Data Entry, Ensuring department standards were met, Meeting my own personal upselling target, Responding to correspondence by email and letter.",
-    ],
-  },
+  // {
+  //   name: "New Hope for Cambodian Children School (NGO)",
+  //   logoSrc: "/images/logos/nhcclogo.png",
+  //   startDate: "Oct 2018",
+  //   endDate: "July 2021",
+  //   details: [
+  //     "Grade 6 Teacher - Teaching three grade 6 classes over 3 academic years. 17 students per class, ages 10-15 years old. Focusing on English, Maths, Social Studies, P.E and Art. Creating and implementing lesson plans, classroom resources and exams in accordance with the Cambodian national curriculum. Adapting the curriculum for those with special needs.  Providing extra tutoring for those who struggle and those that excel.  Planning field trips.  Organizing extra curricular activities, such as art shows, music and talent competitions.  Living on site.",
+  //   ],
+  // },
+  // {
+  //   name: "Jark Healthcare Recruitment Agency (Cambridge)",
+  //   logoSrc: "/images/logos/jark-logo.png",
+  //   startDate: "Mar 2015",
+  //   endDate: "Aug 2017",
+  //   details: [
+  //     "Account Coordinator/Consultant - Assisting Support Workers, Care Assistants and Nurses to gain employment. Interviewing candidates, ensuring they have the relevant compliance. Completing the company’s payroll. CV searching, contacting candidates. Booking candidates to attend training days. Running (DBS) checks.Contacting employers for reference checks. Brainstorming and creating employee incentives. Visiting local colleges and universities to carry out presentations to gain new business.",
+  //   ],
+  // },
+  // {
+  //   name: "ICS (International Citizen Service)",
+  //   logoSrc: "/images/logos/ics-logo.png",
+  //   startDate: "Apr 2014",
+  //   endDate: "Jul 2014",
+  //   details: [
+  //     "Based in Rural Africa (Sangilo Village, Malawi) The project was partially Government funded but also saw me fundraise £800 in order to support the Charity to fund further young people to volunteer overseas. The Royston Rotary Club made a donation with the agreement of holding a speech/presentation on my return. I was invited to the club as a guest speaker in January 2015 and presented my experience to the entire committee. The situation – supporting children to gain access to primary school education in a community that had no access to electricity or the internet. Working in a team of 18. Tasks included: Construction of a new nursery building. Raising the standard of education through the teachers by creating an up to date and relevant learning syllabus and new learning resources. Awareness sessions within the primary schools, a parents evening, adult literacy classes and a talent show for all the students. Covering topics such as: Geography, hygiene, sanitation, culture diversity / HIV & AIDS and other diseases.",
+  //   ],
+  // },
+  // {
+  //   name: "Hotel Chocolat (Head office, Royston)",
+  //   logoSrc: "/images/logos/hotel-chocolat-logo.png",
+  //   startDate: "Nov 2010",
+  //   endDate: "Jun 2011",
+  //   details: [
+  //     "Telesales Representative - Answering incoming calls, Data Entry, Ensuring department standards were met, Meeting my own personal upselling target, Responding to correspondence by email and letter.",
+  //   ],
+  // },
 ];

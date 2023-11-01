@@ -36,7 +36,15 @@ export const Intro = () => {
             github.com/hann0r{" "}
           </Link>
           |{" "}
+          <Link
+            href="https://6542bc6174cdaf0008e513c1--animated-kangaroo-a5d7cf.netlify.app/?fbclid=IwAR2QgiqAqPodczwtcJQKrEEoZ01ioUz1H-VFuWb9favqQjdPiN5S57wrC3o"
+            target="_blank"
+          >
+            Professional Portfolio Website
+          </Link>{" "}
+          |
           <Link href="https://www.hannahharries.com" target="_blank">
+            {" "}
             SheCodes Portfolio
           </Link>{" "}
         </i>

@@ -43,7 +43,7 @@ export const Intro = () => {
       </Text>
 
       <Text>
-        Full time Frontend Developer & Designer working for both{" "}
+        Full time Frontend Developer and Designer working for both{" "}
         <Link href="https://www.loopspeed.co.uk" target="_blank">
           <u>Loopspeed</u>
         </Link>{" "}
@@ -57,14 +57,18 @@ export const Intro = () => {
         Malone, Puma, Levis and Mclaren.
         <br />
         <br />
-        Vast experience using the following - Figma, Visual Code Studio, HTML,
-        CSS, JavaScript, React, Typescript, Next.js, MUI, TailwindCSS, SASS,
-        Firebase, Supabase, Contentful CMS, Styled-components, GSAP, Gatsby,
-        Node.js, Github - Pulling, Comparing, Rebaseing and Merging.
+        Vast experience using the following - Wireframes, Figma, Visual Code
+        Studio, HTML, CSS, JavaScript, React, Typescript, Next.js, MUI,
+        TailwindCSS, SASS, Firebase, Supabase, Contentful CMS,
+        Styled-components, GSAP, Gatsby, Node.js, Implementing SEO, Github -
+        Pulling, Comparing, Rebaseing and Merging.
         <br />
-        <br /> Alongside this work I have also been QA testing the apps, with a
-        keen eye and attention to detail ensuring all aspects are working
-        correctly within the UX/UI flow.
+        <br /> Alongside the development work, I have been designing company
+        branding for private clients, this includes creating Brochures, Legal
+        Documents, Logos, Brand guidelines and Business cards. <br />
+        <br />I have also been QA testing applications, with a keen eye and
+        attention to detail ensuring all aspects are working correctly within
+        the UX/UI flow.
       </Text>
     </Flex>
   );

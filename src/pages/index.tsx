@@ -20,7 +20,10 @@ const Index = () => {
         <Intro />
         <HistoryList title="Work Experience" items={experiences} />
         <p>
-          <i>Non-Development Work Experience Available on Request</i>
+          <i>
+            (Prior to this, I worked as an English Teacher for 3 years - Full
+            Work Experience Available on Request)
+          </i>
         </p>
         <HistoryList title="Education" items={education} />
       </Flex>

@@ -91,7 +91,9 @@ export const experiences: THistory[] = [
     details: [
       "Front-End Developer/Designer working with partner companies and Independent businesses to design and create websites, apps and branding documents. Developing Front-End UI and database structures. ",
 
-      "This includes - Setting up Typography, Fonts, Button Components, AgeGate, Cookies, Forms, Inputs, Switches, Theme Set up, Landing and Splash Screens, Transitions, Animations, Pop up Modals, Responsive Styling. ",
+      "This includes - Setting up Typography, Fonts, Button Components, AgeGate, Analytics, Cookies, Forms, Inputs, Switches, Theme Set up, Landing and Splash Screens, Transitions, Animations, Pop up Modals, Responsive Styling. ",
+
+      "Translating ideas into exceptional designs, creating comprehensive design examples in Figma, whilst maintaining and implementing princles of User Centered Design.",
 
       "Using the following - Figma, HTML, CSS, JavaScript, React, Typescript, Next.js, MUI, TailwindCSS, SASS, Firebase, Supabase, Contentful CMS, Styled-components, GSAP, Gatsby, Node.js.",
 
